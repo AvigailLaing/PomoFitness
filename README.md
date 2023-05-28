@@ -10,13 +10,19 @@ With PomoFitness, this no longer has to happen. PomoFitness empowers students to
 
 How? By remixing the beloved pomodoro study method. 
 
+## How It Works
+
 The pomodoro method involves working in 25-minute sessions with five minutes of break time in between each session. For years, the pomodoro method has been proven to improve student focus and improve the efficacy of study sessions. And for years, students have utilized the pomodoro method to improve their productivity.
 
 There are a million different pomodoro timers out there, **but PomoFitness is different**. PomoFitness helps students live a balanced lifestyle. PomoFitness keeps students healthy.
 
+## The Benefits of PomoFitness
+
 Instead of having a typical five-minute timer after a pomodoro session, PomoFitness provides each user with a unique & easy-to-follow **five-minute workout**. During these five minutes, users get to move their bodies and improve blood flow to the brain. For students doing multiple pomodoro sessions in one night, these breaks can be an incredible aid to their physical health.
 
 But these five-minute exercise breaks don't just improve student health; they **also** improve each student's academic performance. Multiple studies have proven that regular daily movement yields greater performance on tests, greater retention of knowledge, and better mental health for students. 
+
+## The PomoFitness Movement
 
 By supporting this project, you are supporting the health of students everywhere.
 
