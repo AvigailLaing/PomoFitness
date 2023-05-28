@@ -22,8 +22,6 @@ Instead of having a typical five-minute timer after a pomodoro session, PomoFitn
 
 But these five-minute exercise breaks don't just improve student health; they **also** improve each student's academic performance. Multiple studies have proven that regular daily movement yields greater performance on tests, greater retention of knowledge, and better mental health for students. 
 
-## The PomoFitness Movement
-
 By supporting this project, you are supporting the health of students everywhere.
 
 Thank you for being a part of the PomoFitness movement.
