@@ -1,4 +1,4 @@
-#PomoFitness: Bringing Health to Every Student
+# PomoFitness: Bringing Health to Every Student
 
 Welcome to PomoFitness, a website for any student who wants to take both their grades and health into their own hands. 
 
